@@ -49,5 +49,6 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
-![assets/images/screenshot.JPG]
+![screenshot](https://user-images.githubusercontent.com/70031550/108731896-07b75200-74fb-11eb-89e5-5d821c3e1e93.JPG)
+
 
